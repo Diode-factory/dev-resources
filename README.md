@@ -8,3 +8,6 @@ Build a Photo Gallery With React & Firebase -- https://www.youtube.com/watch?v=v
 React Authentication Crash Course With Firebase And Routing -- https://www.youtube.com/watch?v=PKwu15ldZ7k&t=53s
 
 ReactJS Tutorial for Beginners -- https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+
+
+https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci
